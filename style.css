@@ -1,0 +1,65 @@
+
+h1 {
+    color: rgba(255, 255, 255, 0.815);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+  }
+h2 {
+    color: rgba(255, 255, 255, 0.815);
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.active {
+    background-color: rgba(92, 90, 97, 0.192);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(90, 23, 73);
+}
+li {
+    display: inline;
+    float: left;
+    width: 60px;
+    border-right: 1px solid #bbb;
+  }
+
+a {
+    display: block;
+    padding: 8px;
+}
+form {
+    text-align: left;
+}
+
+body {
+    background-color: #E3C8F7;
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    float: center;
+    width: 600px;
+    height: 400px;
+}
+p {
+    font-family: Verdana: Arial;
+    color: rgba(255, 255, 255, 0.815);
+    line-height: 1.4;
+
+}
+.link {
+    color: #f2f2f2;
+}
+.artist {
+    color: white;
+}

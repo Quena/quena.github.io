@@ -3,6 +3,7 @@ h1 {
     color: rgba(255, 255, 255, 0.815);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
+    text-shadow: 2px 2px 4px #6b69692d;
   }
 h2 {
     color: rgba(255, 255, 255, 0.815);
@@ -15,18 +16,16 @@ h2 {
     text-decoration: none;
     font-size: 17px;
 }
+
 .active {
     background-color: rgba(92, 90, 97, 0.192);
 }
-
-}
-
-  }
 
 a {
     display: block;
     padding: 8px;
 }
+
 form {
     text-align: left;
 }
@@ -42,22 +41,28 @@ img {
     width: 600px;
     height: 400px;
 }
+
 p {
     font-family: Verdana: Arial;
     color: rgba(255, 255, 255, 0.815);
     line-height: 1.4;
-
+    text-shadow: 2px 2px 4px #6b69692d;
+    font-size: 20px;
 }
+
 .link {
     color: #f2f2f2;
 }
+
 .artist {
     color: white;
 }
+
 ol {
     color: white;
     
 }
+
 li {
   
 }
